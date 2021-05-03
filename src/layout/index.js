@@ -1,1 +1,2 @@
-// export { default as ComponentName } from './ComponentName' 
+export { default as Header } from './Header';
+export { default as Footer } from './Footer';
