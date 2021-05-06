@@ -20,6 +20,7 @@ A template for building a React app.
     dependencies: 
         "react": "^17.0.2",
         "react-dom": "^17.0.2"
+        "react-router-dom": "^5.2.0"
 
 
 ## For development:  
