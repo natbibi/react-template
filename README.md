@@ -31,8 +31,6 @@ A template for building a React app with SASS.
 
 </details>
 
-<br>
-
 ## For development:  
 `npm install`  
 `npm run dev`  
