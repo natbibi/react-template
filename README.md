@@ -1,5 +1,6 @@
 # react-template
-A template for building a React app. 
+A template for building a React app.   
+<em>Use `sass` branch for react template with sass installed and set up.</em>
 
 <details>
 <summary>Included dev/dependencies:</summary>
