@@ -1,8 +1,9 @@
 # react-template
 A template for building a React app. 
 
-    # Includes: 
-     
+<details>
+<summary>Included dev/dependencies:</summary>
+
     devDependencies:
         "@babel/core": "^7.13.15",
         "@babel/plugin-proposal-class-properties": "^7.13.0",
@@ -22,6 +23,7 @@ A template for building a React app.
         "react-dom": "^17.0.2"
         "react-router-dom": "^5.2.0"
 
+</details>
 
 ## For development:  
 `npm install`  
