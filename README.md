@@ -4,7 +4,7 @@ A template for building a React app with SASS.
 <details>
 <summary>Included dev/dependencies:</summary>
 
-    "devDependencies": {
+    devDependencies: 
         "@babel/core": "^7.13.15",
         "@babel/plugin-proposal-class-properties": "^7.13.0",
         "@babel/plugin-transform-runtime": "^7.13.15",
@@ -20,14 +20,13 @@ A template for building a React app with SASS.
         "webpack": "^5.31.2",
         "webpack-cli": "^4.6.0",
         "webpack-dev-server": "^3.11.2"
-    },
-    "dependencies": {
+    
+    dependencies:
         "bootstrap": "^5.0.1",
         "react": "^17.0.2",
         "react-bootstrap": "^1.6.0",
         "react-dom": "^17.0.2",
         "react-router-dom": "^5.2.0"
-    }
 
 </details>
 
