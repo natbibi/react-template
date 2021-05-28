@@ -1,9 +1,10 @@
 # react-template
-A template for building a React app. 
+A template for building a React app with SASS.
 
-    # Includes: 
-     
-    devDependencies:
+<details>
+<summary>Included dev/dependencies:</summary>
+
+    "devDependencies": {
         "@babel/core": "^7.13.15",
         "@babel/plugin-proposal-class-properties": "^7.13.0",
         "@babel/plugin-transform-runtime": "^7.13.15",
@@ -11,17 +12,26 @@ A template for building a React app.
         "@babel/preset-react": "^7.13.13",
         "babel-loader": "^8.2.2",
         "css-loader": "^5.2.1",
+        "file-loader": "^6.2.0",
         "html-webpack-plugin": "^5.3.1",
+        "sass": "^1.34.0",
+        "sass-loader": "^11.1.1",
         "style-loader": "^2.0.0",
         "webpack": "^5.31.2",
         "webpack-cli": "^4.6.0",
         "webpack-dev-server": "^3.11.2"
-
-    dependencies: 
+    },
+    "dependencies": {
+        "bootstrap": "^5.0.1",
         "react": "^17.0.2",
-        "react-dom": "^17.0.2"
+        "react-bootstrap": "^1.6.0",
+        "react-dom": "^17.0.2",
         "react-router-dom": "^5.2.0"
+    }
 
+</details>
+
+<br>
 
 ## For development:  
 `npm install`  
